@@ -1,4 +1,6 @@
-## Hi there 👋
+# About Me
+- 🔭 I’m currently working on Java, Spring, Camunda development
+- 😄 Pronouns: He/Him
 
 <!--
 **mikekellerva/mikekellerva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
